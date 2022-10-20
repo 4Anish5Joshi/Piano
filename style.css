@@ -93,7 +93,7 @@ h3 {
 
 body h1 {
     flex: 0 0 100%;
-    margin-bottom: 100px;
+    margin-top: 15px;
     text-align: center;
     color: white;
     text-shadow: 4px 0 0 black;
@@ -101,4 +101,5 @@ body h1 {
 .container{
   margin: auto;
   width: 92%;
+  padding-top: 150px;
 }
